@@ -8,17 +8,17 @@ Excel
 Python  
 
 # Projects
-#Power BI:- 
+#Power BI:-  
 Created a dynamic dashboard in Power BI, utilizing Donut charts, bar charts, cards, slicers, matrices, and more to provide insightful visualizations for Blinkit, an app focused on last-minute delivery services in India. The dashboard highlights key metrics such as total sales of $1.00M, an average sales value of $141, and an average rating of 3.9 across 7060 items. It provides detailed insights into sales performance by outlet location, size, and item type, with filters allowing users to drill down for deeper analysis. The dashboard visualizes essential KPIs like outlet establishment trends, fat content sales breakdowns, and outlet performance, enabling more effective business decisions.
 
-#SQL:- 
+#SQL:-   
 Created project on mysql, utilizing join, subqueries, window functions, CTEs for data analysis
 
-#Python:- 
+#Python:-  
 Created project on data cleaning project using Python (Pandas library)
 
-# Education
-Secondary school completed from NIOS
-● Senior Secondary completed from HBSE with A Grade.
-● B.A ( Bachelor of Arts ) Completed from MDU with A Grade.
-● Pursuing an MCA (Master of Computer Applications)
+# Education  
+Secondary school completed from NIOS  
+● Senior Secondary completed from HBSE with A Grade.  
+● B.A ( Bachelor of Arts ) Completed from MDU with A Grade.  
+● Pursuing an MCA (Master of Computer Applications)  
