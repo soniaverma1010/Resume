@@ -1,7 +1,7 @@
 # Resume
 I am Sonia Verma. I have developed a strong foundation in data analysis I am proficient in using Python, SQL, and Excel for data manipulation and analysis, and I have applied these tools to tackle projects involving large datasets and complex data problems. Additionally, I am skilled in creating interactive dashboards and visualizations with Power BI to present insights effectively. I bring strong problem-solving abilities, critical thinking, and effective communication to my work. My attention to detail and collaborative approach enable me to translate complex data into actionable insights and work efficiently within team environments. With a passion for data and a commitment to continuous learning, I am excited to contribute my analytical skills to a dynamic organization and support data-driven decision-making processes.
 
-#Skills
+# **Skills***
 MySQL
 Power BI
 Excel
